@@ -1,0 +1,17 @@
+:root {
+  --clr-light: #ffffff;
+  --clr-medium: #979797;
+  --clr-dark: #000000;
+  --animation-duration: 300ms;
+}
+
+@font-face {
+  font-family: 'font-primary';
+  src: url('../assets/fonts/d-din/D-DIN.otf');
+  font-weight: normal;
+}
+@font-face {
+  font-family: 'font-primary';
+  src: url('../assets/fonts/d-din/D-DIN-Bold.otf');
+  font-weight: bold;
+}
